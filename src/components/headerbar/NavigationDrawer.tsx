@@ -39,9 +39,6 @@ const NavigationDrawer = () => {
                   <Link to="/" className="hover:bg-gray-300">HOME</Link>
                 </li>
                 <li>
-                  <Link to="/test-page" className="hover:bg-gray-300">TEST PAGE</Link>
-                </li>
-                <li>
                   <Link to="/membership-&-fees" className="hover:bg-gray-300">MEMBERSHIP & FEES</Link>
                 </li>
               </ul>

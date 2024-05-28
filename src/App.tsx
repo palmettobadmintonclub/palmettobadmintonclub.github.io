@@ -11,7 +11,6 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* <Route path="/test-page" element={<TestPage />} /> */}
           <Route path="/membership-&-fees" element={<MembershipAndFees />} />
         </Routes>
       </BrowserRouter>
