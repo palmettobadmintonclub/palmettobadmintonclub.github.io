@@ -39,7 +39,7 @@ const NavigationDrawer = () => {
                   <Link to="/" className="hover:bg-gray-300">HOME</Link>
                 </li>
                 <li>
-                  <Link to="/membership-&-fees" className="hover:bg-gray-300">MEMBERSHIP & FEES</Link>
+                  <Link to="/membership-and-fees" className="hover:bg-gray-300">MEMBERSHIP & FEES</Link>
                 </li>
               </ul>
             </div>
@@ -60,7 +60,7 @@ const NavigationDrawer = () => {
           </div>
           <nav className="p-4 space-y-1 text-4xl text-white text-left hover:text-green-100">
             <a href="/"className="block border-b border-gray-100 border-opacity-30 px-3 py-2 text-base font-medium">Home</a>
-            <a href="/membership-&-fees" className="block border-b border-gray-100 border-opacity-30 px-3 py-2 text-base font-medium">Membership & Fees</a>
+            <a href="/membership-and-fees" className="block border-b border-gray-100 border-opacity-30 px-3 py-2 text-base font-medium">Membership & Fees</a>
           </nav>
         </div>
       </div>
