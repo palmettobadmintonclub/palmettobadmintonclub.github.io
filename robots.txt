@@ -1,3 +1,1 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+Sitemap: https://palmettobadmintonclub.github.io/sitemap.txt
